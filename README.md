@@ -39,6 +39,20 @@
     <img width="370" height="113" alt="Screenshot 2026-09-08 203405" src="https://github.com/user-attachments/assets/5350012f-7509-45e0-a60b-74f42e5105d4" />
 
 
+10. Output penghapus
+
+    <img width="1350" height="483" alt="Screenshot 2026-09-08 210035" src="https://github.com/user-attachments/assets/34371b51-2a67-4170-9631-19f8dc597939" />
+
+
+
+11. Output Peminjaman
+
+    <img width="1518" height="843" alt="Screenshot 2026-09-08 191410" src="https://github.com/user-attachments/assets/d6246c3a-8b99-401d-a960-d67e50bc91ed" />
+
+
+
+
+
 
 
 
