@@ -1,6 +1,4 @@
-# Mini-Project-1
-
-Studi_Kasus_3_Abdul Azis Zulkarnain
+#Studi_Kasus_3_Abdul Azis Zulkarnain
 
 1. Membuat tuple yang isinya 5 judul lagu
    
